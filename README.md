@@ -1,3 +1,3 @@
 # Counter JavaScript Project
 
-Created a "counter" button that will reset, increase, or decrease upon clicking
+A "counter" button that will reset, increase, or decrease upon clicking with appropriate color changes
